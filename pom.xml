@@ -78,7 +78,7 @@
                 </property>
             </activation>
             <properties>
-                <url>${DBURL}?useSSL=false&amp;useLegacyDatetimeCode=false&amp;serverTimezone=Europe/Paris</url>
+                <url>${DBURL}</url>
                 <username>${DBUSERNAME}</username>
                 <password>${DBPASSWORD}</password>
             </properties>
