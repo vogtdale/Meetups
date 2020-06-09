@@ -28,6 +28,7 @@ public class Groupe {
 
 
     @OneToMany(mappedBy = "groupe")
+    @JsonIgnore
     private List<Events> evt;
 
     @OneToMany(mappedBy = "groupe")
