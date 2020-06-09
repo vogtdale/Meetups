@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98462dc6-a2db-44f3-a0fb-a8dcc5e07dfe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/meetup/Controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/meetup/Controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/meetup/Controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/meetup/Controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/meetup/model/GroupKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/meetup/model/GroupKey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/meetup/model/Groupe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/meetup/model/Groupe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/meetup/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/meetup/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/meetup/model/UserGroupe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/meetup/model/UserGroupe.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +28,7 @@
     </option>
     <option name="enabledProfiles">
       <list>
-        <option value="dev" />
+        <option value="prod" />
       </list>
     </option>
   </component>
@@ -99,25 +91,25 @@
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state x="1366" y="0" width="781" height="768" key="CommitChangelistDialog2/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591693530641" />
-    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1591710435847">
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1591711017143">
       <screen x="0" y="24" width="1366" height="743" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591710435847" />
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591711017143" />
     <state width="1234" height="183" key="GridCell.Tab.0.bottom/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591697594359" />
-    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1591710435847">
+    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1591711017142">
       <screen x="0" y="24" width="1366" height="743" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.center/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591710435847" />
+    <state width="1320" height="174" key="GridCell.Tab.0.center/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591711017142" />
     <state width="1234" height="183" key="GridCell.Tab.0.center/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591697594359" />
-    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1591710435847">
+    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1591711017142">
       <screen x="0" y="24" width="1366" height="743" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.left/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591710435847" />
+    <state width="1320" height="174" key="GridCell.Tab.0.left/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591711017142" />
     <state width="1234" height="183" key="GridCell.Tab.0.left/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591697594359" />
-    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1591710435847">
+    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1591711017143">
       <screen x="0" y="24" width="1366" height="743" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.right/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591710435847" />
+    <state width="1320" height="174" key="GridCell.Tab.0.right/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591711017143" />
     <state width="1234" height="183" key="GridCell.Tab.0.right/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591697594359" />
     <state x="1778" y="307" width="457" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591693498974">
       <screen x="1366" y="0" width="1280" height="768" />
