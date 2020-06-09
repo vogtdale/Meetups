@@ -57,6 +57,7 @@ public class User {
     private List<Groupe> groupe = new ArrayList<>();*/
 
     @OneToMany(mappedBy = "user")
+    @JsonIgnore
     Set<UserGroupe> userGroupes;
 
 
