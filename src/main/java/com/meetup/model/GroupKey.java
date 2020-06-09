@@ -12,6 +12,8 @@ public class GroupKey implements Serializable {
     @Column(name = "groupe_id")
     Integer groupe_id;
 
+    public GroupKey() {}
+
     public GroupKey(Long userId, Integer groupe_id) {
         UserId = userId;
         this.groupe_id = groupe_id;

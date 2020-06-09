@@ -21,6 +21,9 @@ public class UserGroupe {
     Groupe groupe;
 
 
+    public UserGroupe() {
+    }
+
     public UserGroupe(GroupKey id) {
         this.id = id;
     }

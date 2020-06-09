@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98462dc6-a2db-44f3-a0fb-a8dcc5e07dfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/meetups.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/meetup/model/UserGroupe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/meetup/model/UserGroupe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/meetup/model/GroupKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/meetup/model/GroupKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/meetup/model/UserGroupe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/meetup/model/UserGroupe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,35 +89,35 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1826" y="63" width="386" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1591689431149">
+    <state x="1826" y="63" width="386" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1591696558266">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state x="491" y="85" width="386" height="632" key="#com.intellij.ide.util.MemberChooser/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591457087882" />
-    <state x="1826" y="63" width="386" height="568" key="#com.intellij.ide.util.MemberChooser/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591689431149" />
+    <state x="1826" y="63" width="386" height="568" key="#com.intellij.ide.util.MemberChooser/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591696558266" />
     <state x="1366" y="0" width="781" height="768" key="CommitChangelistDialog2" timestamp="1591693530641">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state x="1366" y="0" width="781" height="768" key="CommitChangelistDialog2/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591693530641" />
-    <state width="1234" height="183" key="GridCell.Tab.0.bottom" timestamp="1591694757596">
+    <state width="1234" height="183" key="GridCell.Tab.0.bottom" timestamp="1591695695570">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591457703762" />
-    <state width="1234" height="183" key="GridCell.Tab.0.bottom/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591694757596" />
-    <state width="1234" height="183" key="GridCell.Tab.0.center" timestamp="1591694757595">
+    <state width="1234" height="183" key="GridCell.Tab.0.bottom/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591695695570" />
+    <state width="1234" height="183" key="GridCell.Tab.0.center" timestamp="1591695695569">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state width="1320" height="175" key="GridCell.Tab.0.center/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591457703761" />
-    <state width="1234" height="183" key="GridCell.Tab.0.center/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591694757595" />
-    <state width="1234" height="183" key="GridCell.Tab.0.left" timestamp="1591694757595">
+    <state width="1234" height="183" key="GridCell.Tab.0.center/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591695695569" />
+    <state width="1234" height="183" key="GridCell.Tab.0.left" timestamp="1591695695569">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state width="1320" height="175" key="GridCell.Tab.0.left/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591457703761" />
-    <state width="1234" height="183" key="GridCell.Tab.0.left/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591694757595" />
-    <state width="1234" height="183" key="GridCell.Tab.0.right" timestamp="1591694757595">
+    <state width="1234" height="183" key="GridCell.Tab.0.left/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591695695569" />
+    <state width="1234" height="183" key="GridCell.Tab.0.right" timestamp="1591695695569">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
     <state width="1320" height="175" key="GridCell.Tab.0.right/0.24.1366.743/1366.0.1280.768@0.24.1366.743" timestamp="1591457703762" />
-    <state width="1234" height="183" key="GridCell.Tab.0.right/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591694757595" />
+    <state width="1234" height="183" key="GridCell.Tab.0.right/0.24.1366.743/1366.0.1280.768@1366.0.1280.768" timestamp="1591695695569" />
     <state x="1778" y="307" width="457" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591693498974">
       <screen x="1366" y="0" width="1280" height="768" />
     </state>
